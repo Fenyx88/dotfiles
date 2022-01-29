@@ -155,8 +155,11 @@ colorscript random
 
 # apt package manager
 alias aptup='sudo apt update && sudo apt upgrade'
+alias aptupd='sudo apt update' 
+alias aptupg='sudo apt upgrade'
 alias aptin='sudo apt install'
 alias aptrm='sudo apt remove'
+
 
 alias nano='sudo nano'
 alias ..='cd ..'
