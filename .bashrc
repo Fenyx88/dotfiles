@@ -159,7 +159,7 @@ alias aptupd='sudo apt update'
 alias aptupg='sudo apt upgrade'
 alias aptin='sudo apt install'
 alias aptrm='sudo apt remove'
-
+alias aptlist='apt list --upgradable'
 
 alias nano='sudo nano'
 alias ..='cd ..'
